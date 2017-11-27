@@ -7,5 +7,9 @@ function [ tetraploid ] = replicateDNA( organism )
 
 %todo: make tetraploid
 
+error('You have to implement this function first!!!');
+%delete this line after implementation is done
+
+
 end
 

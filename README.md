@@ -47,7 +47,7 @@ v MATLABU ve které je organismus uložen.
 
 *Obr. 2: Popis organismu*
 
-Popis funkcí 
+Popis funkcí
 -------------
 
 Funkce přibližně odpovídají jednotlivým dějům při buněčném dělení:

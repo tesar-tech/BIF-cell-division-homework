@@ -4,5 +4,6 @@ function [ haploids ] = meiosis( organism )
 
 %haploids = %implementation goes here
 %this is two line implementation (:
-
+error('You have to implement this function first!!!');
+%delete this line after implementation is done
 end

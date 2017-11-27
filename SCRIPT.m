@@ -1,7 +1,7 @@
 %% initial 
-%do not bother with this section
+%do not bother with this section, just run it to add 'todo' folder to path
 if (exist('.\support\implementation','dir')==7)
-    addpath('.\support\implementation');%techer
+    addpath('.\support\implementation');%teacher
 else 
     addpath('todo');%student
 end
@@ -21,7 +21,7 @@ figure
 
 subplot 121;drawOrganism(organism);title('built organism')
 subplot 122;drawOrganism(randomOrganism);title('randomly generated organism')
-%%
+%% mitosis
 
 [organism_1_afterMitosis,organism_2_afterMitosis] = mitosis(organism);
 
